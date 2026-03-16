@@ -1,0 +1,25 @@
+<svg width="720" height="860" viewBox="0 0 720 860" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="860" fill="#F6F6F0"/>
+  <rect x="30" y="30" width="660" height="510" rx="26" fill="url(#paint0_linear)"/>
+  <circle cx="508" cy="146" r="78" fill="#FFFFFF"/>
+  <g opacity="0.35">
+    <path d="M508 85C473.758 85 446 112.758 446 147C446 181.242 473.758 209 508 209C542.242 209 570 181.242 570 147C570 112.758 542.242 85 508 85Z" stroke="#C8CCD4"/>
+    <path d="M446 147H570" stroke="#C8CCD4"/>
+    <path d="M508 85V209" stroke="#C8CCD4"/>
+    <path d="M463 102C477 116 539 178 553 192" stroke="#C8CCD4"/>
+    <path d="M553 102C539 116 477 178 463 192" stroke="#C8CCD4"/>
+  </g>
+  <path d="M25 458C126.405 402.14 242.38 403.884 345.95 453.272C446.136 501.037 558.112 504.183 660.844 461.392L691 448V540H30L25 458Z" fill="#4F8F4E"/>
+  <rect x="68" y="96" width="204" height="204" rx="44" fill="#12213A"/>
+  <text x="170" y="208" text-anchor="middle" fill="#D5F255" font-family="Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="-6">LA</text>
+  <rect x="38" y="571" width="644" height="251" rx="26" fill="#FFFFFF"/>
+  <text x="62" y="636" fill="#111827" font-family="Arial, sans-serif" font-size="56" font-weight="700">Lakareber Abe</text>
+  <text x="62" y="705" fill="#566172" font-family="Arial, sans-serif" font-size="38" font-weight="500">Alabama alum | Epson Tour pro</text>
+  <text x="62" y="758" fill="#566172" font-family="Arial, sans-serif" font-size="38" font-weight="500">Mason Rudolph champion</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="360" y1="30" x2="360" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2FAEE5"/>
+      <stop offset="1" stop-color="#155E89"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="720" height="900" viewBox="0 0 720 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="900" rx="28" fill="#12213A"/>
+  <rect x="44" y="44" width="632" height="812" rx="24" fill="url(#paint0_linear)"/>
+  <rect x="72" y="88" width="180" height="52" rx="18" fill="#5D182B"/>
+  <text x="96" y="122" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="700">ALABAMA YEARS</text>
+  <text x="72" y="222" fill="#12213A" font-family="Arial, sans-serif" font-size="74" font-weight="700">2015</text>
+  <text x="72" y="272" fill="#455065" font-family="Arial, sans-serif" font-size="34" font-weight="700">Mason Rudolph</text>
+  <text x="72" y="314" fill="#455065" font-family="Arial, sans-serif" font-size="34" font-weight="700">Championship winner</text>
+  <rect x="72" y="374" width="276" height="116" rx="24" fill="#12213A"/>
+  <text x="100" y="438" fill="#D5F255" font-family="Arial, sans-serif" font-size="44" font-weight="700">2x</text>
+  <text x="100" y="474" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="22" font-weight="600">All-SEC second team</text>
+  <rect x="372" y="374" width="276" height="116" rx="24" fill="#F8F7F2"/>
+  <text x="400" y="438" fill="#12213A" font-family="Arial, sans-serif" font-size="44" font-weight="700">63</text>
+  <text x="400" y="474" fill="#455065" font-family="Arial, sans-serif" font-size="22" font-weight="600">Program-record round</text>
+  <rect x="72" y="528" width="576" height="186" rx="24" fill="#FFFFFF"/>
+  <text x="104" y="592" fill="#12213A" font-family="Arial, sans-serif" font-size="28" font-weight="700">Inaugural Joy McCann Culverhouse scholarship recipient</text>
+  <text x="104" y="642" fill="#455065" font-family="Arial, sans-serif" font-size="24" font-weight="600">SEC All-Freshman in 2015 and six collegiate top-five finishes</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="360" y1="44" x2="360" y2="856" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EAF3FA"/>
+      <stop offset="1" stop-color="#C0D3E5"/>
+    </linearGradient>
+  </defs>
+</svg>

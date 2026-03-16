@@ -1,0 +1,26 @@
+<svg width="720" height="900" viewBox="0 0 720 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="900" rx="28" fill="#12213A"/>
+  <rect x="44" y="44" width="632" height="812" rx="24" fill="url(#paint0_linear)"/>
+  <text x="72" y="128" fill="#12213A" font-family="Arial, sans-serif" font-size="72" font-weight="700">2025</text>
+  <rect x="72" y="174" width="208" height="56" rx="18" fill="#12213A"/>
+  <text x="98" y="211" fill="#D5F255" font-family="Arial, sans-serif" font-size="24" font-weight="700">EPSON TOUR</text>
+  <rect x="72" y="284" width="576" height="154" rx="26" fill="#FFFFFF"/>
+  <text x="106" y="360" fill="#12213A" font-family="Arial, sans-serif" font-size="92" font-weight="700">T5</text>
+  <text x="258" y="354" fill="#455065" font-family="Arial, sans-serif" font-size="32" font-weight="700">Reliance Matrix</text>
+  <text x="258" y="394" fill="#455065" font-family="Arial, sans-serif" font-size="30" font-weight="600">Championship presented by Epson</text>
+  <rect x="72" y="474" width="272" height="128" rx="24" fill="#12213A"/>
+  <text x="100" y="540" fill="#D5F255" font-family="Arial, sans-serif" font-size="54" font-weight="700">20</text>
+  <text x="100" y="580" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="600">events played</text>
+  <rect x="376" y="474" width="272" height="128" rx="24" fill="#F8F7F2"/>
+  <text x="404" y="540" fill="#12213A" font-family="Arial, sans-serif" font-size="54" font-weight="700">7</text>
+  <text x="404" y="580" fill="#455065" font-family="Arial, sans-serif" font-size="24" font-weight="600">cuts made</text>
+  <rect x="72" y="638" width="576" height="144" rx="24" fill="#FFFFFF"/>
+  <text x="104" y="718" fill="#12213A" font-family="Arial, sans-serif" font-size="48" font-weight="700">$17,921</text>
+  <text x="104" y="756" fill="#455065" font-family="Arial, sans-serif" font-size="24" font-weight="600">Official earnings | No. 80 on the season money list</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="360" y1="44" x2="360" y2="856" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EAF3FA"/>
+      <stop offset="1" stop-color="#C0D3E5"/>
+    </linearGradient>
+  </defs>
+</svg>

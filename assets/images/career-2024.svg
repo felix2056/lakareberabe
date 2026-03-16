@@ -1,0 +1,21 @@
+<svg width="520" height="520" viewBox="0 0 520 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="520" rx="28" fill="#F8F7F2"/>
+  <rect x="30" y="30" width="460" height="460" rx="24" fill="url(#paint0_linear)"/>
+  <text x="56" y="108" fill="#12213A" font-family="Arial, sans-serif" font-size="58" font-weight="700">2024</text>
+  <rect x="56" y="140" width="140" height="48" rx="16" fill="#12213A"/>
+  <text x="80" y="172" fill="#D5F255" font-family="Arial, sans-serif" font-size="22" font-weight="700">CAREER HIGH</text>
+  <text x="56" y="276" fill="#12213A" font-family="Arial, sans-serif" font-size="120" font-weight="700">64</text>
+  <text x="56" y="322" fill="#455065" font-family="Arial, sans-serif" font-size="30" font-weight="700">Low round</text>
+  <rect x="56" y="358" width="188" height="96" rx="20" fill="#12213A"/>
+  <text x="80" y="412" fill="#D5F255" font-family="Arial, sans-serif" font-size="46" font-weight="700">12</text>
+  <text x="80" y="444" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="20" font-weight="600">cuts made</text>
+  <rect x="264" y="358" width="200" height="96" rx="20" fill="#FFFFFF"/>
+  <text x="288" y="412" fill="#12213A" font-family="Arial, sans-serif" font-size="38" font-weight="700">$26,018</text>
+  <text x="288" y="444" fill="#455065" font-family="Arial, sans-serif" font-size="20" font-weight="600">earnings</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="260" y1="30" x2="260" y2="490" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DBE7F2"/>
+      <stop offset="1" stop-color="#C1D2E4"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0C1729"/>
+  <rect x="36" y="36" width="1128" height="558" rx="36" fill="url(#paint0_linear)"/>
+  <circle cx="958" cy="132" r="92" fill="#D5F255" fill-opacity="0.16"/>
+  <circle cx="958" cy="132" r="62" stroke="#D5F255" stroke-width="2"/>
+  <rect x="78" y="84" width="176" height="176" rx="44" fill="#D5F255"/>
+  <rect x="108" y="114" width="116" height="116" rx="28" fill="#12213A"/>
+  <text x="166" y="191" text-anchor="middle" fill="#D5F255" font-family="Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-5">LA</text>
+  <text x="78" y="350" fill="#12213A" font-family="Arial, sans-serif" font-size="80" font-weight="700">Lakareber Abe</text>
+  <text x="78" y="416" fill="#455065" font-family="Arial, sans-serif" font-size="34" font-weight="600">Professional Golf Profile</text>
+  <rect x="78" y="468" width="356" height="64" rx="20" fill="#12213A"/>
+  <text x="104" y="509" fill="#D5F255" font-family="Arial, sans-serif" font-size="28" font-weight="700">Alabama record 63</text>
+  <rect x="452" y="468" width="312" height="64" rx="20" fill="#F8F7F2"/>
+  <text x="478" y="509" fill="#12213A" font-family="Arial, sans-serif" font-size="28" font-weight="700">2025 Reliance Matrix T5</text>
+  <rect x="782" y="468" width="340" height="64" rx="20" fill="#12213A"/>
+  <text x="808" y="509" fill="#D5F255" font-family="Arial, sans-serif" font-size="28" font-weight="700">Eight Epson seasons</text>
+  <text x="78" y="564" fill="#455065" font-family="Arial, sans-serif" font-size="28" font-weight="600">Alabama alum. Ethiopian-born. Long-form Epson Tour professional.</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="600" y1="36" x2="600" y2="594" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EAF3FA"/>
+      <stop offset="1" stop-color="#C0D3E5"/>
+    </linearGradient>
+  </defs>
+</svg>
